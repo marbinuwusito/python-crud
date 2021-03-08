@@ -1,0 +1,5 @@
+CREATE TABLE courses(
+   ID INT PRIMARY KEY AUTO_INCREMENT,
+   name VARCHAR (20) NOT NULL,
+   credits INT
+);
